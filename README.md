@@ -7,9 +7,7 @@ Interfaces for ATM Controller.
 Python3
 
 ## How to run
-### python3 is required to build
-### Command for run  
-$python3 ./ATM_Controller.py
+$python3 ./ATM_Controller.py //python3 is required to build
 
 ## Author
 WS. S.
